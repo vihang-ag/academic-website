@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Vihang Agarwal
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Machine Learning Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Michigan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Reinforcement Learning
+- Human-AI Interaction
+- Cognitive Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in EECS, Computer Vision
+    institution: University of Michigan
+    year: 2020
+  - course: BTech in Mechanical Engineering
+    institution: Indian Institute of Technology Kanpur
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,24 +42,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  mailto: vihang@umich.edu  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=uIl_34cAAAAJ&hl=en&authuser=2
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/vihang-ag
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/ResumeVihang.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "vihang@umich.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I want machines that can collaborate with us, augmenting our capabilities and enabling us to attain superhuman performances. Fascinated, I am developing algorithms that use the power of deep learning and ideas from computer vision and Human-AI interaction to build intelligent agents. My goal is to be at the forefront of research in this direction and develop AI driven products at scale. I recently got my masters from University of Michigan, where I was fortunate enough to work with Prof. David Fouhey on problems in Robot Navigation/3D visual scene understanding and with Prof. James Balter in Deep Learning for Medical Imaging. I have an undergraduate degree in Mechanical Engineering from IIT Kanpur, India along with a minor in Artificial Intelligence. I am also passionate about sports and was part of the Water Polo Team, IIT Kanpur. 
