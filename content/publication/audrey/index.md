@@ -1,4 +1,5 @@
 
+---
 title: Audrey: A Personalized Open-Domain Conversational Bot
 
 publication_types: 1
@@ -22,3 +23,4 @@ models such as Emotion Detection and a Personal Understanding Module to grasp a 
 url_pdf: https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/challenge3/proceedings/U-Michigan-Audrey.pdf
 
 # url_code: 
+---
