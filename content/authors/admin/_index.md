@@ -48,6 +48,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&authuser=2&user=uIl_34cAAAAJ
+  
 - icon: github
   icon_pack: fab
   link: https://github.com/vihang-ag
