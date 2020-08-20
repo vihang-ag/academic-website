@@ -48,7 +48,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=uIl_34cAAAAJ&hl=en&authuser=2
+  link: https://scholar.google.com/citations?hl=en&authuser=2&user=uIl_34cAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/vihang-ag
